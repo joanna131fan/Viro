@@ -15,4 +15,4 @@ Over the last decade, an intensive effort has been undertaken to develop global 
 ## Running Visual Version
 ```$ python model_viz.py```
 
-./visual_version/network-visualization.png
+![Image of Network](./visual_version/network-visualization.png)
